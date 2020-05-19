@@ -8,4 +8,7 @@ Instructions:
 apt install leafpad
 leafpad .bashrc
 ```
-Note: Make sure you are in the 
+3. Past This At The Very End Of The File.
+4. Save File.
+
+Done, Enjoy!
