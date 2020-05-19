@@ -4,3 +4,8 @@
 Instructions:
 1. Open Terminal
 2. type code:
+```
+apt install leafpad
+leafpad .bashrc
+```
+Note: Make sure you are in the 
