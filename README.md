@@ -2,7 +2,7 @@
 ![](IMG-01.png)
 ## 5/19/2020
 
-***Note: I Have Only Tested This On Parrot 4.9, Color Text Not Included***
+***Notes: I Have Only Tested This On Parrot 4.9, Color Text Not Included***
 
 Instructions:
 1. Open Terminal
