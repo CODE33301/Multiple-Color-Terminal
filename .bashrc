@@ -1,5 +1,6 @@
 # Change Background Color Terminal
 CBCTStart="\033]11;"
+# You Can Change The Colors & Add More!
 CBCTMiddle=("#003300" "#003366" "#660066" "#993333")
 CBCTEnd="\007"
 # Make Sure To Count The Total Of Values In Your Array $CBCTMiddle
