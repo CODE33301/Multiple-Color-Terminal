@@ -3,6 +3,7 @@
 ## 5/19/2020
 
 ***Notes: I Have Only Tested This On Parrot 4.9, Color Text Not Included***
+[For Color Text](https://github.com/CODE33301/Terminal-Cool-Text)
 
 Instructions:
 1. Open Terminal
